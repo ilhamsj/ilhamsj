@@ -28,8 +28,11 @@
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=ilhamsj&show_icons=true&theme=radical" alt="stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ilhamsj&theme=radical" alt="streak" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilhamsj&layout=compact&theme=radical" alt="langs" /> 
+</p>
+
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ilhamsj&theme=radical" alt="streak" />
 </p>
 
 ---
