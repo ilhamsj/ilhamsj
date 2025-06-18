@@ -7,6 +7,7 @@
     <img src="https://img.shields.io/badge/Open%20to-Work-%2300b300?style=flat-square&logo=github" alt="Open to Work" />
   </a>
 </p>
+
 ---
 
 💻 **About Me**
